@@ -1,9 +1,7 @@
 # Datathon 2026 Round 1 - Main Pipeline
 
-Repo này đã được rút gọn để chỉ giữ lại pipeline chính phục vụ tạo file dự báo/submission:
-
 - `MainPipeline.ipynb`: notebook chính
-- `dataset/sales.csv`: dữ liệu đầu vào mà notebook đang sử dụng
+- `dataset`: dữ liệu đầu vào mà notebook đang sử dụng
 
 ## Mục tiêu
 
